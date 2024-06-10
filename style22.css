@@ -7870,8 +7870,9 @@ figcaption {
     }
 
     .menu_link_text {
-        font-size: .875em
-    }
+    display: contents;
+    font-size: .875em;
+}
 
     .loader3_content-wrapper {
         width: 10rem
