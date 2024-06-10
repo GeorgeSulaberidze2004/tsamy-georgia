@@ -6771,9 +6771,18 @@ figcaption {
   }
 
   .container.is--sticky {
-    flex-direction: column
-  }
-
+      flex-direction: column;
+      margin-top:-10%;
+    }
+     .scrolldown {
+    display: flex;
+    font-family: 'Neuehaasdisplay';
+    font-size: 20px;
+    margin-top: 10%;
+    justify-content: center;
+    color: #00000085;
+    }
+  
   .home-hero_content {
     grid-column-gap: 4em;
     grid-row-gap: 4em;
