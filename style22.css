@@ -3658,7 +3658,7 @@ figcaption {
     justify-content: space-between;
     padding: 1.75em 2em;
     text-decoration: none;
-    display: flex
+    display: block;
 }
 
 .button-text {
