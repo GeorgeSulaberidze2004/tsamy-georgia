@@ -2184,7 +2184,7 @@ h6 {
 }
 
 p {
-    color: #fff;
+    color: inherit;
     margin-bottom: 0;
     font-family: Neuehaasdisplay roman,sans-serif;
     font-size: 1em;
@@ -2317,6 +2317,7 @@ figcaption {
 
 .text-color-white {
    text-decoration: none;
+   
 }
 
 .text-size-regular {
