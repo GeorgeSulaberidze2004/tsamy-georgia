@@ -2318,6 +2318,7 @@ figcaption {
 .text-color-white {
     text-decoration: none;
     text-decoration-color: white;
+    pointer-events: none;
 }
 
 .text-size-regular {
