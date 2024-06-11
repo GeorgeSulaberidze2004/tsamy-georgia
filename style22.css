@@ -4544,6 +4544,7 @@ figcaption {
 
 .contact_heading-1 {
     text-transform: uppercase;
+    font-weight: bold;
     font-size: 7em;
     line-height: 1.1;
     display: inline-block;
