@@ -2195,7 +2195,7 @@ p {
 a {
     color: var(--sundown-orange);
     font-family: Neuehaasdisplay mediu,sans-serif;
-    font-size: 1em;
+    font-size: 0.95em;
     font-weight: 500;
     line-height: 1.4
 }
