@@ -2316,7 +2316,8 @@ figcaption {
 }
 
 .text-color-white {
-    color: #fff;
+    text-decoration: none;
+    text-decoration-color: white;
 }
 
 .text-size-regular {
