@@ -6058,6 +6058,16 @@ figcaption {
     line-height: 1.1;
     display: inline;
   }
+  .header1_link_text {
+    color: #6f6f6f;
+    letter-spacing: -.03em;
+    text-transform: uppercase;
+    font-family: Neuehaasdisplay mediu,sans-serif;
+    font-size: 2.5em;
+    font-weight: 500;
+    line-height: 1.1;
+    display: table-row;
+}
   .menu_link {
     grid-column-gap: 0.625rem;
     grid-row-gap: 0.625rem;
